@@ -17,7 +17,7 @@ We love DFK, we love data, and in here we aim to give a visual insight on two ma
 1. how hero stats and profession level influence item drop rate 
 1. shall a hero with Foraging high stats and with fishing as main profession (as for example a fishing DreadKnight) do Foraging or Fishing?
 
-The data has been obtained via reverse engineering quest logs in the harmony block chain, so yes there could be bugs.
+The data (more than 8 Million quests) has been obtained via reverse engineering quest logs in the harmony block chain, so yes there could be bugs.
 Data is available in the ./data/ folder in this repo. Eth hashes are included so it is possible to check its validity using the harmony explorer (one by one..). analysis.ipynb is the jupyter notebook used to process the data.
 The code to scrap the data is not shared at the moment, it is far away from being optimal and able to run smoothly.
 
